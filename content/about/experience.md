@@ -33,7 +33,7 @@ experience:
 
   - title: Volunteer
     company: FIBA Basketball World Cup 2019
-    company_url: ''
+    company_url: 'https://www.fiba.basketball/basketballworldcup/2019'
     company_logo: org-fiba
     location: Shenzhen, P.R. China
     date_start: '2019-08-25'
