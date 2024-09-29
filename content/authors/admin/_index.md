@@ -72,4 +72,4 @@ My research interests lie at the intersection of functional data analysis and de
 
 In addition to my academic and professional endeavors, I am passionate about badminton. I was a member of the Southern University of Science and Technology’s campus team, where I specialized in men’s doubles.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
