@@ -31,6 +31,15 @@ experience:
     date_end: '2024-06-30'
     description: Conducted research in deep learning methods with a focus on survival data.
 
+  - title: Data Analyst Intern
+    company: Tencent Technology (Shenzhen) Co., LTD
+    company_url: 'https://www.tencent.com/en-us/'
+    company_logo: org-tencent
+    location: Shenzhen, P.R. China
+    date_start: '2019-07-15'
+    date_end: '2019-08-15'
+    description: Worked on operational data, providing insights for product development and user behavior patterns.
+
   - title: Volunteer
     company: FIBA Basketball World Cup 2019
     company_url: 'https://www.fiba.basketball/basketballworldcup/2019'
