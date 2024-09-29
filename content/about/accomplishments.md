@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://lsa.umich.edu/stats/news-events/departmental-awards.html
+  - certificate_url: 
+    date_end: ''
+    date_start: '2020-07-01'
+    description: ''
+    organization: University of Michigan, Ann Arbor
+    organization_url: https://umich.edu/
+    title: 'Graduating Student Speaker'
+    url: 'https://lsa.umich.edu/content/dam/stats-assets/StatsPDF/2024-masters-program.pdf'
+  - certificate_url: 
     date_end: ''
     date_start: '2023-09-01'
     description: 
     organization: University of Michigan, Ann Arbor
     organization_url: https://umich.edu/
-    title: Outstanding First Year Applied Statistics Master’s Student
+    title: 'Outstanding First Year Applied Statistics Master’s Student'
     url: 'https://lsa.umich.edu/stats/news-events/departmental-awards.html'
-  - certificate_url: https://stat-ds.sustech.edu.cn/?lang=en-us
+  - certificate_url: 
     date_end: ''
     date_start: '2022-05-30'
     description: 
     organization: Southern Univertsity of Science and Technology
     organization_url: https://stat-ds.sustech.edu.cn/?lang=en-us
-    title: Outstanding Graduation Thesis for Undergraduates
+    title: 'Outstanding Graduation Thesis for Undergraduates'
     url: https://stat-ds.sustech.edu.cn/?lang=en-us
-  # - certificate_url: https://www.datacamp.com
-  #   date_end: '2020-12-21'
-  #   date_start: '2020-07-01'
-  #   description: ''
-  #   organization: DataCamp
-  #   organization_url: https://www.datacamp.com
-  #   title: 'Object-Oriented Programming in R'
-  #   url: ''
 
 design:
   columns: '1'
