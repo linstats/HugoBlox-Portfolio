@@ -10,4 +10,8 @@ Badminton doubles is a popular format among amateur players. A strong service or
 
 You can read the full paper [here](https://arxiv.org/abs/2310.18572).
 
-For a brief presentation on the topic, you can watch this video (in Chinese) on [Bilibili](https://www.bilibili.com/video/BV1gUx7esEr1/?spm_id_from=333.999.list.card_archive.click&vd_source=6bcca3a5db0e540546e587d2b6dfe7dc).
+For a brief presentation on the topic, you can watch the video (in Chinese) below:
+
+<div style="max-width: 100%;">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1gUx7esEr1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="450"> </iframe>
+</div>
