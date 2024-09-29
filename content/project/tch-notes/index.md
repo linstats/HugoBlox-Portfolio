@@ -1,6 +1,6 @@
 ---
 title: Lecture Notes Now Available
-summary: Here are some of my personal lecture notes available for download in PDF format.
+summary: My personal lecture notes for download in PDF format.
 tags:
   - TCH
 date: 2024-09-29
