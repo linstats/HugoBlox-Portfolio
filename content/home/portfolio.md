@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Statistics
+      tag: ST
+    - name: Badminton
+      tag: BMT
+    - name: Teaching
+      tag: TCH
 
 design:
   columns: '1'
