@@ -18,24 +18,24 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
-- Statistics
-- Badminton
-- Teaching
+# - Statistics
+# - Badminton
+# - Teaching
 
 #education:
- courses:
- - course: PhD in Statistics
-   institution: National University of Singapore
-   year: 2029 (Expected)
- - course: Ms in Applied Statistics
-   institution: University of Michigan, Ann Arbor
-   year: 2024
- - course: BSc in Statistics
-   institution: Southern University of Science and Technology
-   year: 2022
+#  courses:
+#  - course: PhD in Statistics
+#    institution: National University of Singapore
+#    year: 2029 (Expected)
+#  - course: Ms in Applied Statistics
+#    institution: University of Michigan, Ann Arbor
+#    year: 2024
+#  - course: BSc in Statistics
+#    institution: Southern University of Science and Technology
+#    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
