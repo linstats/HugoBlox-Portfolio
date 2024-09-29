@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2020-07-01'
+    date_start: '2024-05-02'
     description: ''
     organization: University of Michigan, Ann Arbor
     organization_url: https://umich.edu/
