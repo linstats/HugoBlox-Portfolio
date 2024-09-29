@@ -1,12 +1,10 @@
 ---
-title: Modeling Service Return in Badminton Double
-summary: Write about your project here...
+title: Statistical Analysis in Badminton
+summary: Modeling service and returns in badminton men's doubles match.
 tags:
   - BMT
 date: 2024-09-29
 ---
-
-## Modeling Service Returns in Badminton Doubles
 
 Badminton doubles is a popular format among amateur players. A strong service or a well-placed service return can often determine the outcome of a rally. To assist players in making quick and accurate predictions during play, we utilized statistical tools to model and forecast service return patterns.
 
@@ -14,8 +12,6 @@ Badminton doubles is a popular format among amateur players. A strong service or
   <img src="/images/archive-badmin-1.jpg" alt="Modeling1" style="width: 45%;">
   <img src="/images/archive-badmin-2.jpg" alt="Modeling2" style="width: 45%;">
 </div>
-
-
 
 You can read the full paper [here](https://arxiv.org/abs/2310.18572).
 
