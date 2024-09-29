@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, there! I'm Xuelin, a PhD student in statistics at NUS, and also an amateur badminton player.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 - Statistics
