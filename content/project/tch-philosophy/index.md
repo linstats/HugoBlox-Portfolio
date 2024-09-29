@@ -1,6 +1,6 @@
 ---
 title: My Teaching Phylosophy
-summary: How I think of teaching and using statistics.
+summary: My approach to teaching and using statistics.
 tags:
   - TCH
 date: 2024-09-27
