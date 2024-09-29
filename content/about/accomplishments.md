@@ -28,7 +28,7 @@ item:
     date_start: '2023-09-01'
     description: ''
     organization: University of Michigan, Ann Arbor
-    organization_url: https://lsa.umich.edu/stats
+    organization_url: https://umich.edu/
     title: Outstanding First Year Applied Statistics Master’s Student
     url: 'https://lsa.umich.edu/stats/news-events/departmental-awards.html'
   - certificate_url: https://www.edx.org
@@ -47,15 +47,6 @@ item:
   #   organization_url: https://www.datacamp.com
   #   title: 'Object-Oriented Programming in R'
   #   url: ''
-experience:
-  - title: Visiting Student
-    company: Southern University of Science and Technology
-    company_url: 'https://stat-ds.sustech.edu.cn/?lang=en-us'
-    company_logo: org-sustech
-    location: Shenzhen, P.R. China
-    date_start: '2024-05-10'
-    date_end: '2024-06-30'
-    description: Conducted research in deep learning methods with a focus on survival data.
 
 design:
   columns: '1'
