@@ -29,7 +29,7 @@ experience:
     location: Singapore
     date_start: '2024-08-05'
     date_end: ''
-    # description: My dissertation was on X
+    description: Supervised by Professor [Li Jialiang](https://blog.nus.edu.sg/jialiang/)
 
   - title: MSc in Applied Statistics
     company: University of Michigan, Ann Arbor
@@ -38,10 +38,7 @@ experience:
     location: Ann Arbor, MI, USA
     date_start: '2022-08-25'
     date_end: '2024-05-05'
-    # description: |2-
-    #     * Dissertation on Y
-    #     * Basketball team
-    #     * DJ club
+    description: Supervised by Professor [Tailen Hsing](https://lsa.umich.edu/stats/people/faculty/thsing.html)
 
   - title: BSc in Statistics
     company: Southern University of Science and Technology
@@ -50,7 +47,7 @@ experience:
     location: Shenzhen, P.R. China
     date_start: '2018-08-15'
     date_end: '2022-07-02'
-    # description: My dissertation was on X
+    description: Supervised by Lecturer [Xu Cong](https://www.sustech.edu.cn/en/faculties/xucong.html)
 
 design:
   columns: '1'
