@@ -2,7 +2,7 @@
 title: My Badminton Journey
 summary: A reflection on my experiences playing and training in badminton.
 tags: 
-  - bt
+  - Badminton
 date: 2022-07-02
 ---
 

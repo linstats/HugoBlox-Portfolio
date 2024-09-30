@@ -29,11 +29,11 @@ content:
     - name: All
       tag: '*'
     - name: Statistics
-      tag: st
+      tag: Statistics
     - name: Badminton
-      tag: bt
+      tag: Badminton
     - name: Teaching
-      tag: tc
+      tag: Teaching
 
 design:
   columns: '1'

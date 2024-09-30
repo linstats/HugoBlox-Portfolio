@@ -2,7 +2,7 @@
 title: Master's Graduation
 summary: Graduated from the UMich in May 2024 and was honored to be a graduation speaker!
 tags:
-  - st
+  - Statistics
 date: 2024-05-03
 ---
 

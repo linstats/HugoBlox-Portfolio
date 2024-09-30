@@ -2,7 +2,7 @@
 title: My Teaching Phylosophy
 summary: My approach to teaching and using statistics.
 tags:
-  - st
+  - Teaching
 date: 2024-09-15
 ---
 
