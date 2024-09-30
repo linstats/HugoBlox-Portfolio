@@ -2,7 +2,7 @@
 title: Statistical Analysis in Badminton
 summary: Modeling service and returns in badminton men's doubles.
 tags:
-  - Badminton
+  - st
 date: 2024-01-25
 ---
 

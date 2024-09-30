@@ -2,7 +2,7 @@
 title: Lecture Notes Now Available
 summary: My personal lecture notes for download in PDF format.
 tags:
-  - Teaching
+  - st
 date: 2024-09-30
 ---
 
