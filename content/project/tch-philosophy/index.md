@@ -3,7 +3,7 @@ title: My Teaching Phylosophy
 summary: My approach to teaching and using statistics.
 tags:
   - Teaching
-date: 2024-09-27
+date: 2024-09-15
 ---
 
 As a PhD student in statistics, I deeply resonate with Karl Pearson's assertion that *"Statistics is the grammar of science."* For me, the beauty of statistics lies in its ability to make sense of the world, and I take great joy in sharing this with others. Whether through formal instruction or casual conversations with friends, family, and peers, I aim to demystify statistical methods and promote their use across diverse fields.

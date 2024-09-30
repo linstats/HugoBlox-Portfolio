@@ -3,8 +3,10 @@ title: Lecture Notes Now Available
 summary: My personal lecture notes for download in PDF format.
 tags:
   - Teaching
-date: 2024-09-29
+date: 2024-09-30
 ---
+
+Feel free to download these resources for study or reference. I hope they assist in your journey to understanding the language of data and science.
 
 ### Machine Learning Methods
 
@@ -16,5 +18,3 @@ date: 2024-09-29
 ### Statistical Theory
 
 - <a href="/notes/st-pres.pdf" target="_blank">Lecture 0: Preliminaries in Integration and Conditioning</a>
-
-Feel free to download these resources for study or reference. I hope they assist in your journey to understanding the language of data and science.

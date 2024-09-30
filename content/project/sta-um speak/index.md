@@ -3,7 +3,7 @@ title: Master's Graduation
 summary: Graduated from the UMich in May 2024 and was honored to be a graduation speaker!
 tags:
   - Statistics
-date: 2024-05-02
+date: 2024-05-03
 ---
 
 Good morning dear faculty, staff, proud parents, guests, and fellow graduates. I am so happy to see you on this momentous moment. When it comes to speech, my brain would always follow an exponential distribution, and go memoryless. So please forgive me to use a script.

@@ -3,7 +3,7 @@ title: My Badminton Journey
 summary: A reflection on my experiences playing and training in badminton.
 tags: 
   - Badminton
-date: 2024-09-20
+date: 2022-07-02
 ---
 
 Alongside my academic and professional pursuits, badminton has been one of my greatest passions. I began playing at the age of 17 and was fortunate to join the badminton team at the Southern University of Science and Technology. I focused on men's doubles, partnering with [Liu Chengyu](http://www.jiangxingyusustech.com/page131?article_id=64) (刘澄昱).

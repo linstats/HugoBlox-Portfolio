@@ -3,7 +3,7 @@ title: Statistical Analysis in Badminton
 summary: Modeling service and returns in badminton men's doubles.
 tags:
   - Badminton
-date: 2024-09-29
+date: 2024-01-25
 ---
 
 Badminton doubles is a popular format among amateur players. A strong service or a well-placed service return can often determine the outcome of a rally. To assist players in making quick and accurate predictions during play, we utilized statistical tools to model and forecast service return patterns.
