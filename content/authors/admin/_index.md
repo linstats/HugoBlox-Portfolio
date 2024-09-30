@@ -48,14 +48,13 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhuxuelin/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/linstats
 # Uncomment below for ins link
 #  - icon: instagram
 #    icon_pack: fab
 #    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-# - icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 
 
 # Link to a PDF of your resume/CV from the About widget.
