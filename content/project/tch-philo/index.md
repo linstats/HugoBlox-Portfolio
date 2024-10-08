@@ -1,5 +1,5 @@
 ---
-title: Teaching Philosophy
+title: My Philosophy of Teaching
 summary: My approach to teaching and using statistics.
 tags:
   - Teaching
