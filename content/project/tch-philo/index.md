@@ -10,19 +10,6 @@ One of my favorite professors, Cai Jingheng (蔡敬衡), once said: *“True dis
 
 To encourage the broad and accurate use of statistics, I believe visualization is a powerful tool for understanding complex statistical concepts. Through visual techniques, abstract ideas become more accessible and intuitive, helping people, regardless of their background, to grasp the core of statistical thinking. This is what I continuously pursue in my teaching and sharing. Below is an example of the suppport vector machines, where visualization aids understanding.
 
-<table>
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <strong>Definition</strong>:<br>
-      A <strong>separating hyperplane</strong> $\mathcal{L}$ in $\mathbb{R}^p$ is a collection of points in the following form:<br><br>
-      $$
-      \mathcal{L} = \left\{ \mathbf{x} \in \mathbb{R}^p : \beta_0 + \boldsymbol{\beta}^{\top} \mathbf{x} = 0 \right\},
-      $$  
-      where $\beta_0 \in \mathbb{R}$ and $\boldsymbol{\beta} \in \mathbb{R}^p$.<br><br>
-      In practical terms, this hyperplane is used to separate different classes in a dataset, making it a fundamental component of machine learning models like support vector machines.
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <img src="/images/teaching-fig1.jpg" alt="Teaching-SVM" style="width: 100%;">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/images/teaching-fig1.jpg" alt="Teaching-SVM" width="width: 90%;">
+</p>
